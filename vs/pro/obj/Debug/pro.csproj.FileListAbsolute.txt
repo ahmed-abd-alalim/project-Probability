@@ -1,0 +1,16 @@
+C:\Users\sallam\Desktop\pro\pro\bin\Debug\pro.exe.config
+C:\Users\sallam\Desktop\pro\pro\bin\Debug\pro.exe
+C:\Users\sallam\Desktop\pro\pro\bin\Debug\pro.pdb
+C:\Users\sallam\Desktop\pro\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+C:\Users\sallam\Desktop\pro\pro\obj\Debug\pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\sallam\Desktop\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\sallam\Desktop\pro\pro\obj\Debug\pro.exe
+C:\Users\sallam\Desktop\pro\pro\obj\Debug\pro.pdb
+C:\Users\sallam\Desktop\proG\pro\bin\Debug\pro.exe.config
+C:\Users\sallam\Desktop\proG\pro\bin\Debug\pro.exe
+C:\Users\sallam\Desktop\proG\pro\bin\Debug\pro.pdb
+C:\Users\sallam\Desktop\proG\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+C:\Users\sallam\Desktop\proG\pro\obj\Debug\pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\sallam\Desktop\proG\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\sallam\Desktop\proG\pro\obj\Debug\pro.exe
+C:\Users\sallam\Desktop\proG\pro\obj\Debug\pro.pdb
